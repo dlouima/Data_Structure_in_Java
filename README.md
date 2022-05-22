@@ -4,3 +4,4 @@ Data Structure and Algorithm in Java
 - Doubly Linked List
 - Stack
 - Queue
+- Binary Tree

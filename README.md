@@ -1,4 +1,4 @@
-Data Structure and Algorithm in Java
+Java Data Structure
 
 - Linked List
 - Doubly Linked List
